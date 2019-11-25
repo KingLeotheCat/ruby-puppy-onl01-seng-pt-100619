@@ -9,7 +9,7 @@ class Dog
     @@all << self
     c = self.new
     c.save
-    c
+    
     
     
   end
